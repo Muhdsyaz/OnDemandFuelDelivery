@@ -1,8 +1,25 @@
-# OnDemandFuelDelivery
-Title: Bak Mai
+# Bak Mai (On Demand Fuel Delivery System)
 
-Introduction
+**Application Name:** Bak Mai
 
-Bak Mai is a Malaysia-based online gasoline delivery application. They are, at their core, a gasoline delivery service that connects the petrol stations in question with the individuals who need it the most. Its main purpose is to allow customers to request gasoline using mobile application.
+![Coding](https://github.com/azriawi/OnDemandFuelDelivery/blob/master/GithubImage/BakMaiPoster.png)
 
-Bak Mai's technique of ordering is a step-by-step process. The personnel at Bak Mai by gathering customer's postal information. The data is then filtered depending on the  information entered by consumered, such as the type of fuel and the amount of fuel. Then, depending on the GPS of the customer's location, Bak Mai's staff will purchase gasoline from nearby gas station and deliver it to the customer's location.
+##  ABSTRACT 
+
+Bak Mai is a mobile application for on-demand fuel delivery service that connects the petrol stations with the client. Bak Mai will assist someone who have emergency run out of gas in congested traffic or someone who want the fuel delivery services to their current/home/office location. 
+
+Bak Mai is a third party mobile applications and Petronas, Petron, and Shell will be a vendor for this system.
+
+Bak Mai aims to produce a successful user-friendly app that can give satisfaction to the customer. This app will assist customer when their automobiles run out of gas. 
+
+
+##  OBJECTIVE
+
+- To provide customers with hassle free fuel delivery from the nearest petrol stations to their locations throughout Malaysia.
+- To assist customers when their automobiles run out of gas in the middle of the road without causing any inconvenience.
+- To ease the customers get fuel delivered to their whereabouts without the need to go to gas stations
+- To reduce long queue at a petrol station during peak time.
+
+
+
+
